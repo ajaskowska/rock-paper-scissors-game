@@ -1,3 +1,4 @@
 # rock-paper-scissors-game
 
-gra dostępna pod adresem: https://lovely-kangaroo-22a6a7.netlify.app
+gra dostępna pod adresem: https://meek-naiad-59a9d7.netlify.app
+
